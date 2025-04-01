@@ -1,0 +1,16 @@
+ol {
+    list-style-type: upper-alpha;
+}
+
+h2 {
+    background-color: rgb(165, 204, 204);
+    transition: background-color 1.5s ease;
+}
+
+h2:hover {
+    background-color: rgb(100, 150, 150); /* Escolha uma cor válida */
+
+}
+
+
+

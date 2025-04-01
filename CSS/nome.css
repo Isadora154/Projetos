@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+}
+
+
+    P { 
+        font-family: "Verdana";
+        background-color: rgb(218, 212, 212);
+        margin: 0%;
+        padding: 0%;
+  
+    }
+
+
+#nome{
+    color: blue;
+    text-align: center;
+    background: none;
+}
